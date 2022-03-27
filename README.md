@@ -8,7 +8,7 @@
 第三个要素： ""（里面标记想要拉取什么类型脚本）
 第四个要素： 第二个 "" （里面标记排除什么脚本不拉取）
 第五个要素： 第三个 "" （里面标记拉取什么依赖文件，这里面标记的脚本会放进依赖库而不是运行库）
-第六个要素： 最后一个 "" （里面标记拉取前面gt库的那个分支） -->
-
+第六个要素： 最后一个 "" （里面标记拉取前面gt库的那个分支）
+ -->
 ql repo https://github.com/Aurora209/Script.git "jd_|jddj_" "utils" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|utils|USER_AGENTS|JS_USER_AGENTS"
 
