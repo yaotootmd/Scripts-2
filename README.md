@@ -14,4 +14,4 @@
 ql repo https://github.com/Aurora209/Script.git "jd_|gua_|jx_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS"
 
 ##  gitee
-ql repo https://gitee.com/wangjiyoushang/Scripts.git "jd_|gua_|jx_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS"
+ql repo https://gitee.com/Aurora209/Scripts.git "jd_|gua_|jx_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS"
