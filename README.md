@@ -11,8 +11,8 @@
 第六个要素： 最后一个 "" （里面标记拉取前面gt库的那个分支）
  -->
 ##  github
-ql repo https://github.com/Aurora209/Scripts.git "jd_|gua_|jx_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS|jdFruitShareCodes|jdLog618"
+ql repo https://github.com/Aurora209/Scripts.git "jd_|gua_|jx_ql_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS|jdFruitShareCodes|jdLog618|depend"
 
 ##  gitee
 
-ql repo https://gitee.com/Aurora209/Scripts.git "jd_|gua_|jx_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS|jdFruitShareCodes|jdLog618"
+ql repo https://gitee.com/Aurora209/Scripts.git "jd_|gua_|jx_ql_" "utils|Docker" "ZooFaker_Necklace|JDJRValidator_Pure|sign_graphics_validate|cleancart_activity|jdCookie|ql|sendNotify|jdMsLogs|magic|utils|function|USER_AGENTS|JS_USER_AGENTS|jdFruitShareCodes|jdLog618|depend"
