@@ -1,5 +1,5 @@
 /**
- * 签到领现金_Panda，每日2毛～5毛
+ * 签到领现金_Windfgg，每日2毛～5毛
  * cron "0 0 6 * *" sign_xj.js,tag=签到领现金
  * 
  * 无助力活动 助力码无用
@@ -26,7 +26,7 @@
  let jdWindfggToken = '';
  jdWindfggToken = $.isNode() ? (process.env.WindfggToken ? process.env.WindfggToken : `${jdWindfggToken}`) : ($.getdata('WindfggToken') ? $.getdata('WindfggToken') : `${jdWindfggToken}`);
  if (!jdWindfggToken) {
-     console.log('请填写Windfgg获取的Token,变量名是WindfggToken');
+		 console.log('\n请前往 https://t.me/wind_fgg   获取Token\n请填写Windfgg获取的Token,变量是WindfggToken');
      return;
  }
  
